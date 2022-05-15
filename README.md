@@ -8,12 +8,12 @@
 ## Outputs: 
 ## 1. Annotaion of molecules
 
-<p align="center"> <img width="800"  src="https://user-images.githubusercontent.com/47986787/168453803-13b4c809-3828-418b-9154-95e575d7075b.png"> </p>
+<p align="center"> <img width="400"  src="https://user-images.githubusercontent.com/47986787/168453803-13b4c809-3828-418b-9154-95e575d7075b.png"> </p>
 
 
 ## 2. Get Morgan Substrctures
 
-<p align="center"> <img width="800"  src="https://user-images.githubusercontent.com/47986787/168453822-20f5a344-26b4-428c-89c3-cbd09f12d509.png"> </p>
+<p align="center"> <img width="900"  src="https://user-images.githubusercontent.com/47986787/168453822-20f5a344-26b4-428c-89c3-cbd09f12d509.png"> </p>
 
 
 ## 3. Molecule-Graph-Attributes-For-GNN
