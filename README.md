@@ -17,7 +17,7 @@
 
 
 ## 3. Molecule-Graph-Attributes-For-GNN
-### 1. Atom_Attributes             size: (n_node, n_attr)               type: numpy.array
-### 2. Atom_RXN_Portion            size: (n_rxn_portion)                type: List
-### 3. Bond_Adjacency_Matrix       size: (n_node, n_node)               type: numpy.array
-### 4. Bond_Attributes             size: (n_node, n_node, dim_attr)     type: numpy.array
+    #1. Atom_Attributes             size: (n_node, n_attr)               type: numpy.array
+    #2. Atom_RXN_Portion            size: (n_rxn_portion)                type: List
+    #3. Bond_Adjacency_Matrix       size: (n_node, n_node)               type: numpy.array
+    #4. Bond_Attributes             size: (n_node, n_node, dim_attr)     type: numpy.array
