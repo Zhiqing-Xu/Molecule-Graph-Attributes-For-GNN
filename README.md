@@ -1,5 +1,8 @@
 # Obtain Molecule Graph Attributes For GNN
 
+## Introduction
+This work is about generating Morgan Fingerprint-based atomic features for molecule representation for graphic neural networks.
+
 ## Inputs: List of SMILES String
 
 <p align="center"> <img width="800"  src="https://user-images.githubusercontent.com/47986787/168453938-80d5413f-c6ab-4fdf-82b9-5909c41c7c71.png"> </p>
